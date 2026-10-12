@@ -1,0 +1,9 @@
+{
+  "name": "ecocredits-by-aranica-labs",
+  "version": "2.0.0",
+  "private": true,
+  "description": "EcoCredits mobile-first recycling vending machine rewards prototype by Aranica Labs",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
